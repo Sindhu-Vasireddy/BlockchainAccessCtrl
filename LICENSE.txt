@@ -1,0 +1,15 @@
+Custom Open-Source License
+
+Usage of the materials in this repository is subject to the following terms:
+
+1. Permission from all authors must be obtained before using any materials (code, documents, etc.) from this repository.
+
+2. Redistribution of the materials in this repository, with or without modification, is not allowed without prior written consent from all authors.
+
+3. All derivative works based on the materials in this repository must be explicitly approved by all authors.
+
+4. Commercial use of the materials in this repository is strictly prohibited without express written permission from all authors.
+
+5. Any usage of the materials must include appropriate attribution to the original authors.
+
+For permissions or inquiries, please contact [Sindhu Vasireddy](mailto:sindhuvasireddy94@gmail.com).
